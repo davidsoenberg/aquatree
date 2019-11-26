@@ -4,7 +4,7 @@
          max-width: 1024px;
          margin: 0 auto;
          font: 1.2em Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-		 color: none;
+		 color: white;
 }
 .wrapper > * {
 	         border-radius: 5px;
@@ -12,6 +12,7 @@
 }
 .main-head {
   			grid-area: header;
+		
   
 }
 .content {
@@ -21,10 +22,12 @@
 }
 .main-nav {
  			grid-area: nav;
+			
 }
 .main-footer {
 			grid-area: footer;
 			text-align: justify;
+			
  
 }
 /* mobile first */
@@ -86,13 +89,13 @@ li a:hover {
 .flasken{
 		margin-top: 10%;
 		margin-left: 25%;
-		padding-top: 650px;
+		padding-top: 0px;
 		padding-left: 50px
 }
 .p1{
 		margin-left: 5%;
-		padding-top: 150px;
-		padding-bottom: 250px;
+		padding-top: 0px;
+		padding-bottom: 0px;
 		line-height: 1.4;
 }
 .second-nav:hover {
@@ -113,14 +116,14 @@ li a:hover {
 .omos{
 		margin-top: 10%;
 		margin-left: 27%;
-		padding-top: 50px;
+		padding-top: 0px;
 		padding-left: 50px;
-		padding-bottom: 20px;
+		padding-bottom: 0px;
 }
 .p2{
 		margin-left: 5%;
 		padding-top: 50px;
-		padding-bottom: 300px;
+		padding-bottom: 0px;
 		line-height: 1.4;
 }
 .third-nav:hover {
@@ -169,21 +172,21 @@ li a:hover {
 }
 /* David slut */
 
-#nav {
-		
+.wrapperbaggrund {
+		background-image: url("vandfaldphone.jpg");
+			
 }
 
-.seaction1 {
+.section1 {
 		background-image: url("voresflaskephone.jpg");
-	
 }
 
-.seaction2 {
-	
+.section2 {
+	 	background-image: url("mangebladephone.jpg");
 }
 
-.seaction3 {
-	
+.section3 {
+		background-image: url("closeupleafphone.jpg");
 }
 
 
