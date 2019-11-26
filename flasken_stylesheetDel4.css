@@ -95,7 +95,7 @@ li a:hover {
 		margin-left: 25%;
 		padding-top: 0%;
 		padding-left: 50px;
-		padding-bottom: 10%;
+		padding-bottom: 140%;
 }
 #flasken{
 		color:white;
@@ -130,6 +130,7 @@ li a:hover {
 		padding-top: 0px;
 		padding-left: 50px;
 		padding-bottom: 0px;
+		text-shadow: 2px 2px black;
 }
 .p2{
 		margin-left: 5%;
@@ -160,6 +161,7 @@ li a:hover {
 		padding-top: 50px;
 		padding-left: 50px;
 		padding-bottom: 20px;
+		text-shadow: 2px 2px black;
 
 }
 .p3{
@@ -186,26 +188,38 @@ li a:hover {
 
 .wrapperbaggrund {
 		background-image: url("vandfaldphone.jpg");
+		
 			
 }
 
 .section1 {
 		background-image: url("voresflaskephone.jpg");
-		background-repeat: no-repeat;
+		
 }
 
 .section2 {
 	 	background-image: url("mangebladephone.jpg");
+		
 }
 
 .section3 {
 		background-image: url("closeupleafphone.jpg");
+		 
 }
 
 .main-footer {
 		background-image: url("logotilfooter.jpg");
 		padding-bottom: 15%;
 		
+			
+}
+
+#rulned {
+		margin-left: 5%;
+		padding-top: 0%;
+		padding-bottom: 0px;
+		line-height: 1.4;
+		text-shadow: 2px 2px black;
 
 }
 #main-footer {
