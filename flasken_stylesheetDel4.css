@@ -26,7 +26,7 @@
 }
 .main-footer {
 			grid-area: footer;
-			text-align: justify;
+			
 			
  
 }
@@ -46,7 +46,7 @@
 /* Her påbegyndes Annes del af arbejdet, som hun har brugt til forsiden. Der er også her der ligger style til navbar*/
 .aqua{
 		margin-top: 10%;
-		margin-left: 30%;
+		margin-left: 32%;
 		padding-top: 25%;
 		padding-left: 0%;
 		padding-bottom: 0%;
@@ -55,7 +55,7 @@
 	}
 
 .p{
-		margin-left: 5%;
+		margin-left: 10%;
 		padding-bottom: 50%;
 		text-shadow: 2px 2px black;
 }	
@@ -150,7 +150,7 @@ li a:hover {
   		color: white;
   		text-align: center;
 		text-decoration: none;
-  		background-color: #9AAEC8;
+  		background-color: white;
 }
 /* Fink slut */
 
@@ -158,7 +158,7 @@ li a:hover {
 .findflasken{
 		margin-top: 10%;
 		margin-left: 20%;
-		padding-top: 50px;
+		padding-top: 0%;
 		padding-left: 50px;
 		padding-bottom: 20px;
 		text-shadow: 2px 2px black;
@@ -219,6 +219,7 @@ li a:hover {
 		margin-left: 5%;
 		padding-top: 0%;
 		padding-bottom: 0px;
+		padding-left: 20%;
 		line-height: 1.4;
 		text-shadow: 2px 2px black;
 
