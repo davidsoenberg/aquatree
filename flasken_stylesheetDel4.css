@@ -4,7 +4,7 @@
          max-width: 1024px;
          margin: 0 auto;
          font: 1.2em Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-		 color: white;
+		 color: none;
 }
 .wrapper > * {
 	         border-radius: 5px;
@@ -168,3 +168,22 @@ li a:hover {
   		background-color: #9AAEC8;
 }
 /* David slut */
+
+#nav {
+		
+}
+
+.seaction1 {
+		background-image: url("voresflaskephone.jpg");
+	
+}
+
+.seaction2 {
+	
+}
+
+.seaction3 {
+	
+}
+
+
