@@ -51,11 +51,13 @@
 		padding-left: 0%;
 		padding-bottom: 0%;
 		padding-right: 0%;
+		text-shadow: 2px 2px black;
 	}
 
 .p{
 		margin-left: 5%;
 		padding-bottom: 50%;
+		text-shadow: 2px 2px black;
 }	
 
 nav ul {
@@ -70,10 +72,11 @@ li{
 }
 li a {
   		display: block;
-  		color: black;
+  		color: white;
   		text-align: center;
   		padding: 15px;
 		text-decoration: none;
+		text-shadow: 2px 2px black;
 }
 li a:hover {
   		background-color: #9AAEC8;
@@ -95,14 +98,16 @@ li a:hover {
 		padding-bottom: 10%;
 }
 #flasken{
-		color: black;
+		color:white;
+		text-shadow: 2px 2px black;
 }
 .p1{
 		margin-left: 5%;
 		padding-top: 0%;
 		padding-bottom: 0%;
 		line-height: 1.4;
-		color: black;
+		color: white;
+		text-shadow: 2px 2px black;
 }
 .second-nav:hover {
   		flex-direction: column;
@@ -131,6 +136,7 @@ li a:hover {
 		padding-top: 50px;
 		padding-bottom: 0px;
 		line-height: 1.4;
+		text-shadow: 2px 2px black;
 }
 .third-nav:hover {
   		flex-direction: column;
@@ -161,7 +167,7 @@ li a:hover {
 		padding-top: 10px;
 		padding-bottom: 10px;
 		line-height: 1.4;
-	
+		text-shadow: 2px 2px black;
 }
 .fourth-nav:hover {
   		flex-direction: column;
@@ -199,6 +205,10 @@ li a:hover {
 .main-footer {
 		background-image: url("logotilfooter.jpg");
 		padding-bottom: 15%;
+		
+}
+#main-footer {
+		color:black;
 }
 
 
