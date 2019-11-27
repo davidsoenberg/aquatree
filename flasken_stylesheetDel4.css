@@ -321,6 +321,14 @@ li a:hover {
 		background-image: url("closeupleafdesktop.jpg");
 		 background-repeat: no-repeat;
 }
+.p3{
+	text-align: left;	
+	}	
+.findflasken{
+		padding-left: 0%;
+	margin-right: 20%;
+	text-align: center;
+	}
 /*Footer*/
 .main-footer {
 		background-image: url("logotilfooter.jpg");
