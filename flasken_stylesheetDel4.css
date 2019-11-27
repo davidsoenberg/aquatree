@@ -231,9 +231,9 @@ li a:hover {
 }
 
 @media only screen and (min-width: 600px){
-	
+/*Forside og navbar*/	
 .wrapper {
-         max-width: 1680px;
+         max-width: 1600px;
          margin: 0 auto;
          font: 1.2em Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 		 color: #FBFBFB;
@@ -249,49 +249,48 @@ li a:hover {
 		text-shadow: 2px 2px black;
 		text-align: center;
 	}
-
-.section1{
+.wrapperbaggrund {
+		background-image: url("floddesktop.jpg");
+		background-repeat: no-repeat;
+	}
+/*Section1*/
+.section1 {
+		background-image: url("voresflaskedesktop.jpg");
+		background-repeat: no-repeat;
+		
+}
+.flasken{
 		margin-top: 0%;
 		margin-left: 0%;
 		padding-top: 0%;
 		padding-left: 0%;
 		padding-bottom: 0%;
-		padding-right: 0%;
-		text-shadow: 2px 2px black;
 		text-align: center;
-	}	
-.wrapperbaggrund {
-		background-image: url("floddesktop.jpg");
-		background-repeat: no-repeat;
-			
 }
-
-.section1 {
-		background-image: url("voresflaskedesktop.jpg");
-		background-repeat: no-repeat;
-		text-align: center;
-	}
-.flasken{	
-		margin-top: 0%;
-		margin-left: 0%;
-		padding-top: 0%;
-		padding-left: 0px;
-		padding-bottom: 50%;
+#flasken{
 		color:#FBFBFB;
 		text-shadow: 2px 2px black;
 }
-
-	
+.p1{
+		margin-left: 0%;
+		padding-top: 0%;
+		padding-bottom: 0%;
+		line-height: 1.4;
+		color: #FBFBFB;
+		text-shadow: 2px 2px black;
+}
+/*Section 2*/	
 .section2 {
 	 	background-image: url("mangebladedesktop.jpg");
 		background-repeat: no-repeat;
 }
+/*Section 3*/	
 
 .section3 {
 		background-image: url("closeupleafdesktop.jpg");
 		 background-repeat: no-repeat;
 }
-
+/*Footer*/
 .main-footer {
 		background-image: url("logotilfooter.jpg");
 		padding-bottom: 15%;
