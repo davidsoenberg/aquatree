@@ -265,26 +265,34 @@ li a:hover {
 		padding-top: 0%;
 		padding-left: 0%;
 		padding-bottom: 0%;
-		text-align: center;
-		
+		text-align: center;	
 }
 #flasken{
 		color:#FBFBFB;
 		text-shadow: 2px 2px black;
 }
 	.imgclassdesk{
-	margin-left: 50%;
+	margin-right: 50%;
 		padding-top: 0%;
 		padding-bottom: 0%;	
 	}
 .p1{
-		margin-left: 50%;
+		margin-right: 50%;
 		padding-top: 0%;
 		padding-bottom: 0%;
 		line-height: 1.4;
 		color: #FBFBFB;
 		text-shadow: 2px 2px black;
 }
+	#rulned {
+		margin-left: 0%;
+		padding-top: 0%;
+		padding-bottom: 0px;
+		padding-left: 0%;
+		line-height: 1.4;
+		text-shadow: 2px 2px black;
+		text-align: center;
+	}
 /*Section 2*/	
 .section2 {
 	 	background-image: url("mangebladedesktop.jpg");
@@ -302,14 +310,10 @@ li a:hover {
 		text-decoration: none;
  		background-color: #FBFBFB;
 }
-	#rulned {
-		margin-left: 0%;
-		padding-top: 0%;
-		padding-bottom: 0px;
-		padding-left: 0%;
-		line-height: 1.4;
-		text-shadow: 2px 2px black;
-		text-align: center;
+.omos{
+	padding-left: 0%;
+	margin-right: 25%;
+	text-align: center;
 	}
 /*Section 3*/	
 
