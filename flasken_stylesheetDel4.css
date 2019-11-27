@@ -260,19 +260,25 @@ li a:hover {
 		
 }
 .flasken{
-		margin-top: 0%;
+		margin-top: 5%;
 		margin-left: 0%;
 		padding-top: 0%;
 		padding-left: 0%;
 		padding-bottom: 0%;
 		text-align: center;
+		
 }
 #flasken{
 		color:#FBFBFB;
 		text-shadow: 2px 2px black;
 }
+	.imgclassdesk{
+	margin-left: 50%;
+		padding-top: 0%;
+		padding-bottom: 0%;	
+	}
 .p1{
-		margin-left: 0%;
+		margin-left: 50%;
 		padding-top: 0%;
 		padding-bottom: 0%;
 		line-height: 1.4;
@@ -284,6 +290,27 @@ li a:hover {
 	 	background-image: url("mangebladedesktop.jpg");
 		background-repeat: no-repeat;
 }
+.second-nav:hover {
+  		flex-direction: column;
+		list-style-type: none;
+  		margin: 0;
+  		overflow: hidden;
+		float: center;
+  		display: block;
+  		color: #FBFBFB;
+  		text-align: center;
+		text-decoration: none;
+ 		background-color: #FBFBFB;
+}
+	#rulned {
+		margin-left: 0%;
+		padding-top: 0%;
+		padding-bottom: 0px;
+		padding-left: 0%;
+		line-height: 1.4;
+		text-shadow: 2px 2px black;
+		text-align: center;
+	}
 /*Section 3*/	
 
 .section3 {
